@@ -159,9 +159,37 @@ footer{
     background: #243043;
 }
 
-a.{
-    display: block;
+h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #818687;
+    margin-bottom: 14px;
 }
+
+.f-div1{
+    display: inline-block;
+    margin-top: 59px;
+    margin-left: 167px;
+    margin-right: 90px;
+}
+
 .f-div{
     display: inline-block;
+    margin-top: 59px;
+    margin-right: 90px;
+}
+
+h6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 59px;
 }
