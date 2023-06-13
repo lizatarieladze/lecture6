@@ -192,4 +192,12 @@ h6{
     display: inline-block;
     vertical-align: top;
     margin-top: 59px;
+    margin-left: 106px;
+}
+
+.geolablogo{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 59px;
+    margin-left: 416px;
 }
